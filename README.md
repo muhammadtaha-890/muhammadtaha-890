@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahayaqoob890-hue&label=Profile%20views&color=0e75b6&style=flat" alt="tahayaqoob890-hue" /> </p>
-
-#💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on: Improving my programming skills and building small projects.<br>👯 I’m looking to collaborate on: Open-source projects and beginner-friendly coding projects.<br>🤝 I’m looking for help with: Advanced programming concepts and project ideas.<br>🌱 I’m currently learning: Web development and problem-solving with code.<br>💬 Ask me about: Basic programming, tech tools, and learning resources.<br>⚡ Fun fact: I enjoy learning new tech skills and experimenting with creative ideas.<br>
 
 
@@ -31,18 +30,3 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**muhammadtaha-890/muhammadtaha-890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
