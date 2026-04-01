@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahayaqoob890-hue&label=Profile%20views&color=0e75b6&style=flat" alt="tahayaqoob890-hue" /> </p>
-# 💫 About Me:
+💫 About Me:
 
 🔭 I’m currently working on: Improving my programming skills and building small projects.<br>👯 I’m looking to collaborate on: Open-source projects and beginner-friendly coding projects.<br>🤝 I’m looking for help with: Advanced programming concepts and project ideas.<br>🌱 I’m currently learning: Web development and problem-solving with code.<br>💬 Ask me about: Basic programming, tech tools, and learning resources.<br>⚡ Fun fact: I enjoy learning new tech skills and experimenting with creative ideas.<br>
 
