@@ -16,7 +16,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tahayaqoob890-hue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
